@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-kata-starter",
+  "version": "1.0.0",
+  "description": "A NodeJS kata starter kit.",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha **/*spec.js"
+  },
+  "author": "",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "~6.2",
+    "sinon": "^7.4.1",
+    "sinon-chai": "^3.3.0"
+  }
+}
