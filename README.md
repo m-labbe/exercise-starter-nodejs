@@ -1,4 +1,4 @@
-NodeJS Kata Starter
+NodeJS Exercise Starter
 ===================
 
 ## Setup Instructions

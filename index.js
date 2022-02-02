@@ -4,4 +4,4 @@ function sayHello(input) {
 
 module.exports = {
   sayHello
-};
+}
