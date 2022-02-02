@@ -1,15 +1,13 @@
 {
-  "name": "nodejs-kata-starter",
+  "name": "exercise-starter-nodejs",
   "version": "1.0.0",
-  "description": "A NodeJS kata starter kit.",
+  "description": "A NodeJS exercise starter kit.",
   "scripts": {
-    "test": "./node_modules/.bin/mocha **/*spec.js"
+    "test": "./node_modules/.bin/jest"
   },
-  "author": "",
+  "author": "Melissa Labbe",
   "devDependencies": {
-    "chai": "^4.2.0",
-    "mocha": "~6.2",
-    "sinon": "^7.4.1",
-    "sinon-chai": "^3.3.0"
-  }
+    "jest": "^27.4.7"
+  },
+  "dependencies": {}
 }
